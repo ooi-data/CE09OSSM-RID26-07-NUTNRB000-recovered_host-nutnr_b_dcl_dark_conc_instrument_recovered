@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE09OSSM-RID26-07-NUTNRB000-recovered_host-nutnr_b_dcl_dark_conc_instrument_recovered
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Dark Sample Data Products<br>
+Instrument Group Code: NUTNR<br>
